@@ -1,0 +1,18 @@
+.card-body-starting {
+    height: 100%;
+}
+.hide {
+    display: none;
+  }
+.card-body {
+    color:#949494;
+}
+
+.justify-self {
+    justify-self: self-start
+}
+.required:after {
+    content:" *";
+    color: red;
+  }
+
